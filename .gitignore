@@ -1,0 +1,19 @@
+# Python and Blender local artifacts
+__pycache__/
+*.py[cod]
+*.blend1
+*.blend2
+*.blend@
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Local editor and development files
+.vscode/
+.idea/
+.env
+.venv/
+venv/
+dist/
+build/
