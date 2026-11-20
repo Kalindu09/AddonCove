@@ -2,8 +2,6 @@
 
 **Your Blender add-ons, all in one N-panel.** AddonCove is a community-built Blender add-on manager for organizing, installing, enabling, disabling and uninstalling add-ons and extensions.
 
-> **Status:** v1.0.0 — first public/testing release. The earlier development build was named **Add-on Organizer** (v1.2.2). This is a new public version number, not an older codebase. Syntax and simulated registration checks have been completed, but extensive in-Blender testing is still needed. **Back up your Blender settings before testing.**
-
 ## Features
 
 - Browse all installed add-ons from one 3D Viewport N-panel tab.
