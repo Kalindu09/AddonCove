@@ -1,0 +1,23 @@
+schema_version = "1.0.0"
+
+id = "addoncove"
+version = "1.0.0"
+name = "AddonCove"
+tagline = "Install, organize, toggle and remove add-ons in one sidebar"
+maintainer = "AddonCove Contributors"
+type = "add-on"
+
+tags = ["User Interface", "System"]
+
+blender_version_min = "5.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+
+[permissions]
+files = "Manage installed add-on files; save settings and JSON backups"
+
+[build]
+paths_exclude_pattern = [
+  "__pycache__/",
+  "*.pyc",
+  "/*.zip",
+]
